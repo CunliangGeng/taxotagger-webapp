@@ -1,3 +1,4 @@
 streamlit>=1.38.0
 pandas>=1.5.3
+numpy<2.0.0
 taxotagger>=0.0.1-alpha.6
